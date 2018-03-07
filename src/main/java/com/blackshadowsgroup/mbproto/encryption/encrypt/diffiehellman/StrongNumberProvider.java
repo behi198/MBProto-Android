@@ -2,6 +2,9 @@ package com.blackshadowsgroup.mbproto.encryption.encrypt.diffiehellman;
 
 import java.security.SecureRandom;
 
+/**
+ * @author Behi198
+ */
 public class StrongNumberProvider
     {
         private static SecureRandom csp = new SecureRandom();

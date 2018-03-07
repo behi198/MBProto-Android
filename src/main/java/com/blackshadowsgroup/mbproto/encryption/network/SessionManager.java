@@ -9,6 +9,7 @@ import java.util.Random;
 
 /**
  * SessionManager class
+ * @author Behi198
  */
 public class SessionManager {
 

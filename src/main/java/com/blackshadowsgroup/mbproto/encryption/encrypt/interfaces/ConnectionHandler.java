@@ -5,6 +5,7 @@ import com.blackshadowsgroup.mbproto.encryption.model.Result;
 
 /**
  * ConnectionHandler interface
+ * @author Behi198
  */
 public interface ConnectionHandler {
 

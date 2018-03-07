@@ -5,6 +5,7 @@ import java.io.ByteArrayOutputStream;
 
 /**
  * Result class
+ * @author Behi198
  */
 public class Result {
 

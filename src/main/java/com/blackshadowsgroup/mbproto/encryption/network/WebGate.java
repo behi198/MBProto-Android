@@ -5,6 +5,7 @@ import com.blackshadowsgroup.mbproto.encryption.encrypt.interfaces.ConnectionHan
 
 /**
  * WebGate interface
+ * @author Behi198
  */
 @SuppressWarnings("unused")
 public interface WebGate {

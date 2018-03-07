@@ -3,6 +3,9 @@ import java.math.BigInteger;
 import java.util.Date;
 import java.util.Random;
 
+/**
+ * @author Behi198
+ */
 public class Generator {
     private static int _type;
 

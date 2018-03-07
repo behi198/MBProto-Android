@@ -8,6 +8,7 @@ import java.io.IOException;
 
 /**
  * BaseRequest class
+ * @author Behi198
  */
 @SuppressWarnings("unused")
 public abstract class BaseRequest {

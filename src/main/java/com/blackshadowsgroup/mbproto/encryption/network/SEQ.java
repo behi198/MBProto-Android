@@ -11,6 +11,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
  * SEQ class
+ * @author Behi198
  */
 class SEQ {
 

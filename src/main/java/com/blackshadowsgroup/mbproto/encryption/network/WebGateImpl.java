@@ -34,6 +34,7 @@ import java.net.URL;
 
 /**
  * WebGateImpl class
+ * @author Behi198
  */
 @SuppressWarnings("unused")
 final class WebGateImpl implements WebGate {

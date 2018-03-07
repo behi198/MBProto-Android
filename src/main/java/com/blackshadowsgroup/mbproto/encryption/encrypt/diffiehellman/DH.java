@@ -7,6 +7,7 @@ import java.util.Arrays;
 
 /**
  * DH class
+ * @author Behi198
  */
 @SuppressWarnings("unused")
 public class DH {
